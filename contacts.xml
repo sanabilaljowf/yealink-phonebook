@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneDirectory>
+    <DirectoryEntry>
+        <Name>عمرو عبدالحميد</Name>
+        <Telephone>1</Telephone>
+    </DirectoryEntry>
+	
+    <DirectoryEntry>
+        <Name>عبدالرحمن سالم</Name>
+        <Telephone>24</Telephone>
+    </DirectoryEntry>
+	
+	<DirectoryEntry>
+        <Name>غرفة الاجتماعات</Name>
+        <Telephone>2</Telephone>
+    </DirectoryEntry>
+	
+	<DirectoryEntry>
+        <Name>دكتور محمود</Name>
+        <Telephone>3</Telephone>
+    </DirectoryEntry>
+	
+	<DirectoryEntry>
+        <Name>الموارد البشرية</Name>
+        <Telephone>4</Telephone>
+    </DirectoryEntry>
+	
+	<DirectoryEntry>
+        <Name>الحركة والتشغيل</Name>
+        <Telephone>5</Telephone>
+    </DirectoryEntry>
+	
+	<DirectoryEntry>
+        <Name>المالية</Name>
+        <Telephone>6</Telephone>
+    </DirectoryEntry>
+	
+	<DirectoryEntry>
+        <Name>المبيعات</Name>
+        <Telephone>7</Telephone>
+    </DirectoryEntry>
+	
+	<DirectoryEntry>
+        <Name>مصر</Name>
+        <Telephone>100</Telephone>
+    </DirectoryEntry>
+	
+	<DirectoryEntry>
+        <Name>العطيف</Name>
+        <Telephone>200</Telephone>
+    </DirectoryEntry>
+	
+</YealinkIPPhoneDirectory>
