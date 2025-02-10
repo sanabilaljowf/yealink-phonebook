@@ -5,11 +5,6 @@
         <Telephone>1</Telephone>
     </DirectoryEntry>
 	
-    <DirectoryEntry>
-        <Name>عبدالرحمن سالم</Name>
-        <Telephone>24</Telephone>
-    </DirectoryEntry>
-	
 	<DirectoryEntry>
         <Name>غرفة الاجتماعات</Name>
         <Telephone>2</Telephone>
@@ -39,6 +34,21 @@
         <Name>المبيعات</Name>
         <Telephone>7</Telephone>
     </DirectoryEntry>
+
+	<DirectoryEntry>
+        <Name>غزوة</Name>
+        <Telephone>8</Telephone>
+    </DirectoryEntry>
+
+		<DirectoryEntry>
+        <Name>البوفية</Name>
+        <Telephone>10</Telephone>
+    </DirectoryEntry>
+
+	    <DirectoryEntry>
+        <Name>عبدالرحمن سالم</Name>
+        <Telephone>24</Telephone>
+    </DirectoryEntry>
 	
 	<DirectoryEntry>
         <Name>مصر</Name>
@@ -49,5 +59,7 @@
         <Name>العطيف</Name>
         <Telephone>200</Telephone>
     </DirectoryEntry>
+
+
 	
 </YealinkIPPhoneDirectory>
