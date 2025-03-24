@@ -11,7 +11,7 @@
     </DirectoryEntry>
 	
 	<DirectoryEntry>
-        <Name>دكتور محمود</Name>
+        <Name>دكتور سلطان</Name>
         <Telephone>3</Telephone>
     </DirectoryEntry>
 	
@@ -31,13 +31,18 @@
     </DirectoryEntry>
 	
 	<DirectoryEntry>
-        <Name>المبيعات</Name>
+        <Name>المها العتيبي</Name>
         <Telephone>7</Telephone>
     </DirectoryEntry>
 
 	<DirectoryEntry>
-        <Name>غزوة</Name>
+        <Name>امل حسن</Name>
         <Telephone>8</Telephone>
+    </DirectoryEntry>
+
+		<DirectoryEntry>
+        <Name>غزوة</Name>
+        <Telephone>9</Telephone>
     </DirectoryEntry>
 
 		<DirectoryEntry>
