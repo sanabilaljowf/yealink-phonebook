@@ -50,6 +50,16 @@
         <Telephone>10</Telephone>
     </DirectoryEntry>
 
+			<DirectoryEntry>
+        <Name>رحاب</Name>
+        <Telephone>11</Telephone>
+    </DirectoryEntry>
+
+			<DirectoryEntry>
+        <Name>حسن</Name>
+        <Telephone>12</Telephone>
+    </DirectoryEntry>
+
 	    <DirectoryEntry>
         <Name>عبدالرحمن سالم</Name>
         <Telephone>24</Telephone>
