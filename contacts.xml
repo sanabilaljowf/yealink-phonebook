@@ -60,6 +60,13 @@
         <Telephone>12</Telephone>
     </DirectoryEntry>
 
+
+			<DirectoryEntry>
+        <Name>أحمد فيصل</Name>
+        <Telephone>13</Telephone>
+    </DirectoryEntry>
+	
+
 	    <DirectoryEntry>
         <Name>عبدالرحمن سالم</Name>
         <Telephone>24</Telephone>
