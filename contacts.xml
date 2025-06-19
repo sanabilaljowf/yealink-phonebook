@@ -6,13 +6,13 @@
     </DirectoryEntry>
 	
 	<DirectoryEntry>
-        <Name>غرفة الاجتماعات</Name>
+        <Name>CEO Suliman</Name>
         <Telephone>2</Telephone>
     </DirectoryEntry>
 	
 	<DirectoryEntry>
         <Name>دكتور سلطان</Name>
-        <Telephone>3</Telephone>
+        <Telephone>2000</Telephone>
     </DirectoryEntry>
 	
 	<DirectoryEntry>
@@ -66,11 +66,6 @@
         <Telephone>13</Telephone>
     </DirectoryEntry>
 	
-
-	    <DirectoryEntry>
-        <Name>عبدالرحمن سالم</Name>
-        <Telephone>24</Telephone>
-    </DirectoryEntry>
 	
 	<DirectoryEntry>
         <Name>مصر</Name>
