@@ -2,79 +2,79 @@
 <YealinkIPPhoneDirectory>
     <DirectoryEntry>
         <Name>عمرو عبدالحميد</Name>
-        <Telephone>1</Telephone>
+        <Telephone>1000</Telephone>
     </DirectoryEntry>
 	
 	<DirectoryEntry>
         <Name>CEO Suliman</Name>
-        <Telephone>2</Telephone>
+        <Telephone>4048</Telephone>
     </DirectoryEntry>
 	
 	<DirectoryEntry>
-        <Name>دكتور سلطان</Name>
+        <Name>Dr Sultan</Name>
         <Telephone>2000</Telephone>
     </DirectoryEntry>
 	
 	<DirectoryEntry>
-        <Name>الموارد البشرية</Name>
-        <Telephone>4</Telephone>
+        <Name>طلال كامل</Name>
+        <Telephone>4008</Telephone>
     </DirectoryEntry>
 	
 	<DirectoryEntry>
         <Name>الحركة والتشغيل</Name>
-        <Telephone>5</Telephone>
+        <Telephone>9201</Telephone>
     </DirectoryEntry>
 	
 	<DirectoryEntry>
-        <Name>المالية</Name>
-        <Telephone>6</Telephone>
+        <Name>طارق فرج</Name>
+        <Telephone>4016</Telephone>
     </DirectoryEntry>
 	
 	<DirectoryEntry>
         <Name>المها العتيبي</Name>
-        <Telephone>7</Telephone>
+        <Telephone>4025</Telephone>
     </DirectoryEntry>
 
 	<DirectoryEntry>
         <Name>امل حسن</Name>
-        <Telephone>8</Telephone>
+        <Telephone>4030</Telephone>
     </DirectoryEntry>
 
 		<DirectoryEntry>
         <Name>غزوة القرشي</Name>
-        <Telephone>9</Telephone>
+        <Telephone>4014</Telephone>
     </DirectoryEntry>
 
 		<DirectoryEntry>
         <Name>البوفية</Name>
-        <Telephone>10</Telephone>
+        <Telephone>4029</Telephone>
     </DirectoryEntry>
 
 			<DirectoryEntry>
         <Name>رحاب العتيبي</Name>
-        <Telephone>11</Telephone>
+        <Telephone>4033</Telephone>
     </DirectoryEntry>
 
 			<DirectoryEntry>
         <Name>حسن العتيبي</Name>
-        <Telephone>12</Telephone>
+        <Telephone>4007</Telephone>
     </DirectoryEntry>
 
 
 			<DirectoryEntry>
         <Name>أحمد فيصل</Name>
-        <Telephone>13</Telephone>
+        <Telephone>4015</Telephone>
     </DirectoryEntry>
 	
 	
 	<DirectoryEntry>
         <Name>مصر</Name>
-        <Telephone>100</Telephone>
+        <Telephone>9998</Telephone>
     </DirectoryEntry>
 	
 	<DirectoryEntry>
         <Name>العطيف</Name>
-        <Telephone>200</Telephone>
+        <Telephone>9999</Telephone>
     </DirectoryEntry>
 
 
