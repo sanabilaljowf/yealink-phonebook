@@ -10,6 +10,11 @@
         <Telephone>4048</Telephone>
     </DirectoryEntry>
 
+	<DirectoryEntry>
+        <Name>نورة عبدالله</Name>
+        <Telephone>4051</Telephone>
+    </DirectoryEntry>
+
 		<DirectoryEntry>
         <Name>شهد سعيد</Name>
         <Telephone>4044</Telephone>
@@ -95,3 +100,4 @@
 
 	
 </YealinkIPPhoneDirectory>
+
