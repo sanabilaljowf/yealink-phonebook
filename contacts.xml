@@ -9,6 +9,11 @@
         <Name>CEO Suliman</Name>
         <Telephone>4048</Telephone>
     </DirectoryEntry>
+	
+<DirectoryEntry>
+        <Name>فيصل الغامدي</Name>
+        <Telephone>4049</Telephone>
+    </DirectoryEntry>
 
 	<DirectoryEntry>
         <Name>نورة محمود</Name>
@@ -100,5 +105,6 @@
 
 	
 </YealinkIPPhoneDirectory>
+
 
 
