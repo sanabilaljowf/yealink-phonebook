@@ -46,7 +46,7 @@
     </DirectoryEntry>
 	
 	<DirectoryEntry>
-        <Name>Dr Sultan</Name>
+        <Name>\دكتور سلطان</Name>
         <Telephone>2000</Telephone>
     </DirectoryEntry>
 	
@@ -112,9 +112,15 @@
         <Telephone>9999</Telephone>
     </DirectoryEntry>
 
+	<DirectoryEntry>
+        <Name>شيماء طلال</Name>
+        <Telephone>4052</Telephone>
+    </DirectoryEntry>
+
 
 	
 </YealinkIPPhoneDirectory>
+
 
 
 
